@@ -1,4 +1,4 @@
 Potions
 =======
 
-An exercise in using Travis Continuous Integration.
+An exercise in using Travis Continuous Integration. Success!
